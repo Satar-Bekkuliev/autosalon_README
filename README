@@ -1,0 +1,27 @@
+# Автосалон Django / Django Car Dealership
+
+## 📌 Описание / Description
+
+Этот проект представляет собой веб-приложение автосалона, разработанное с использованием Django. Пользователь может управлять базой данных автомобилей, включая типы кузовов, марки, дилеров и сами автомобили. Реализованы функции CRUD (создание, чтение, обновление и удаление) для удобного администрирования автопарка.
+
+This project is a web application for a car dealership, built with Django. The user can manage a database of cars, including body types, brands, dealers, and individual vehicles. CRUD functionality (Create, Read, Update, Delete) is implemented for efficient fleet management.
+
+---
+
+## 🚀 Функциональность / Features
+
+- Управление типами кузовов / Manage car body types
+- Управление марками автомобилей / Manage car brands
+- Управление дилерами / Manage dealers
+- CRUD-операции для автомобилей / CRUD operations for cars
+- Панель администратора Django / Django Admin panel
+
+---
+
+## ⚙️ Установка / Installation
+
+1. Клонируйте репозиторий / Clone the repository:
+
+```bash
+git clone https://github.com/LinuxUser1417/Django_README.git
+cd Django_README
